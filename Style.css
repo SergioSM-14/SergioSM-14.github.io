@@ -1,0 +1,128 @@
+body{
+    background: #3C4A47;
+    margin: 0;
+    font-family: arial;
+    
+}
+.body2{
+    background: #F1F1E6;
+    font-family: arial;
+}
+h1{
+    text-align: center;
+    background: #0DAF94;
+    margin: 0;
+    color: white;
+    padding: 40px;
+}
+div{
+    background: #A0F6FE;
+    padding: 10px;
+}
+.enlace1{
+    margin-left: 45%;
+}
+a{ 
+    color: black;   
+    
+    
+}
+p{
+   text-align: justify;
+   margin-left: -20px;
+
+}
+.buceo{
+    margin-left: 15px;
+    margin-right: 15px;
+    background: #F1F1E6;
+    padding: 10%;
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #392383;
+}
+H2{
+    text-align: center;
+    margin-top: 0;
+    justify-content: safe;
+}
+img{
+    width: 100%;
+    height: 100%;
+
+    
+}
+.natacion{
+    color: #392383;
+}
+.surf{
+    color: #3c316e;
+}
+footer{
+    background: #0DAF94;
+    padding: 30px;
+    margin-right: 0;
+}
+.pie{
+    text-align: center;
+    color: white;
+}
+.contenido{
+    margin-left: 0;
+}
+.acercade{
+    text-align: left;
+    margin-top: 10px;
+}
+.pacercade{
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+form{
+   display: block; 
+   margin-bottom: 10px;
+   padding: 10px;
+    margin-left: 45%;
+  
+}
+.submit{
+    background: #555354;
+    text-align: justify;
+}
+
+label{
+    text-align: left;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-bottom: 30px;
+    width: 100%;
+    margin-top: 30px;
+   padding: auto;
+    margin-right: 10%;
+}
+th{
+    border-collapse: collapse;
+    border: 1px solid black;
+    background: #40504d;
+    color: white;
+    text-align: justify;
+    margin-right: 10%;
+}
+td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-right: 10%;
+}
+.precios{
+    background: #AECDC2;
+    color: #8f83ed;
+    margin-right: 10%;
+}
+.waterpolo{
+    color: #392383;
+}
