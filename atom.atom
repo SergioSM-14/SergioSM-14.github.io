@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed  xmlns="http://www.w3.org/2005/Atom">
+    <title>Noticias Marca</title>
+    <link href="https://marca.com"/>
+    <update>05/02/2025</update>
+    <author>
+        <name>Enrique Corbella</name>
+    </author>
+    <id>https://marca.com</id>
+    <entry>
+        <title>"Luka Doncic gordo es mejor que el 99,9% de todos los exteriores de la NBA"</title>
+        <link>https://www.marca.com/baloncesto/nba/2025/02/05/luka-doncic-gordo-mejor-99-9-todos-exteriores-nba.html</link>
+        <id>https://www.marca.com/baloncesto/nba/2025/02/05/luka-doncic-gordo-mejor-99-9-todos-exteriores-nba.html</id>
+        <updated>05/02/2025</updated>
+        <summary>Defensa de Shaquille O'Neal a Doncic</summary>   
+    </entry>
+    <entry>
+        <title>La estrella NBA negacionista de Michael Jordan pide que se investigue el traspaso de Doncic a los Lakers</title>
+        <link>https://www.marca.com/baloncesto/nba/2025/02/05/estrella-nba-negacionista-michael-jordan-pide-investigue-traspaso-doncic-lakers.html</link>
+        <id>https://www.marca.com/baloncesto/nba/2025/02/05/estrella-nba-negacionista-michael-jordan-pide-investigue-traspaso-doncic-lakers.html</id>
+        <updated>05/02/2025</updated>
+        <summary>Edwards duda del traspaso de Doncic a los Lakers</summary>   
+    </entry>
+    <entry>
+        <title>Doncic perdería más de 100 millones por su traspaso a los Lakers y acusan a la NBA de "esclavitud moderna"</title>
+        <link>https://www.marca.com/baloncesto/nba/2025/02/05/doncic-perderia-100-millones-traspaso-lakers-acusan-nba-esclavitud-moderna.html</link>
+        <id>https://www.marca.com/baloncesto/nba/2025/02/05/doncic-perderia-100-millones-traspaso-lakers-acusan-nba-esclavitud-moderna.html</id>
+        <updated>05/02/2025</updated>
+        <summary>Dennis Schroder denuncia que la NBA es "Una esclavitud modera</summary>   
+    </entry>
+    <entry>
+        <title>El 'calentón' de Hezonja le cuesta un partido de suspensión y 5.000 euros</title>
+        <link>https://www.marca.com/baloncesto/2025/02/05/calenton-hezonja-le-cuesta-partido-suspension-5-000-euros.html</link>
+        <id>https://www.marca.com/baloncesto/2025/02/05/calenton-hezonja-le-cuesta-partido-suspension-5-000-euros.html</id>
+        <updated>05/02/2025</updated>
+        <summary>La Euroliga emite la sanción para el croata</summary>   
+    </entry>
+</feed>

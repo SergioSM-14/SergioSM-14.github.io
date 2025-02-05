@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>MARCA</title>
+    <link>https://marca.com</link>
+    <description>Periodico digital sobre deporte</description>
+    <item>
+        <title>"Luka Doncic gordo es mejor que el 99,9% de todos los exteriores de la NBA"</title>
+        <link>https://www.marca.com/baloncesto/nba/2025/02/05/luka-doncic-gordo-mejor-99-9-todos-exteriores-nba.html</link>
+        <description>Defensa de Shaquille O'Neal a Doncic</description>
+        <author>Enrique Corbella</author>
+        <pubDate>05/02/2025</pubDate>
+    </item>
+    <item>
+        <title>La estrella NBA negacionista de Michael Jordan pide que se investigue el traspaso de Doncic a los Lakers</title>
+        <link>https://www.marca.com/baloncesto/nba/2025/02/05/estrella-nba-negacionista-michael-jordan-pide-investigue-traspaso-doncic-lakers.html</link>
+        <description>Edwards duda del traspaso de Doncic a los Lakers</description>
+        <author>Enrique Corbella</author>
+        <pubDate>05/02/2025</pubDate>
+    </item>
+    <item>
+        <title>Doncic perdería más de 100 millones por su traspaso a los Lakers y acusan a la NBA de "esclavitud moderna"</title>
+        <link>https://www.marca.com/baloncesto/nba/2025/02/05/doncic-perderia-100-millones-traspaso-lakers-acusan-nba-esclavitud-moderna.html</link>
+        <description>Dennis Schroder denuncia que la NBA es "Una esclavitud modera</description>
+        <author>Enrique Corbella</author>
+        <pubDate>05/02/2025</pubDate>
+    </item>
+     <item>
+        <title>El 'calentón' de Hezonja le cuesta un partido de suspensión y 5.000 euros</title>
+        <link>https://www.marca.com/baloncesto/2025/02/05/calenton-hezonja-le-cuesta-partido-suspension-5-000-euros.html</link>
+        <description>La Euroliga emite la sanción para el croata</description>
+        <author>Enrique Corbella</author>
+        <pubDate>05/02/2025</pubDate>
+    </item>
+</channel>
+</rss>
